@@ -26,7 +26,7 @@ public class JavaApplication4 {
         System.out.println("Ingrese el primer numero");
         numero2 = reader.nextInt();
         int sum = numero+numero2;
-        System.out.println("la suma es:"+sum);  
+        System.out.println("la suma es:"+sum); 
     }
     
 }
